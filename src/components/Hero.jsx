@@ -20,9 +20,7 @@ const Hero = () => {
         <span className="orange_gradient">openAI GPT-4 </span>
       </h1>
       <h2 className="text-center text-lg mt-6 text-slate-500 italic ">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolor
-        ullam dignissimos. <br /> Aut, provident unde velit deleniti porro id quo nemo
-        aspernatur sint, quod tenetur esse similique <br /> dolorem magni eius.
+        Paste your article link below to summarize it with GPT-4
       </h2>
     </header>
   );
